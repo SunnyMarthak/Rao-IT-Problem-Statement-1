@@ -1,0 +1,5 @@
+[11,1774,12,2351,19,2398,18,2597,17,2602,13,2755,15,2876,16,2936,14,2974,20,3209,40,44212,4,450,27,46919,33,47663,38,48129,37,48448,32,48496,30,48583,28,48619,29,48900,24,48951,34,48990,1,490,21,49010,35,49039,39,49323,36,49626,26,49679,31,49760,3,499,23,49948,22,50355,25,50411,6,533,9,624,7,634,10,664,2,674,5,682,8,841]
+
+E:\Rao IT Competition\Algorithm1\bin\Debug\net6.0\Algorithm1.exe (process 20512) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
